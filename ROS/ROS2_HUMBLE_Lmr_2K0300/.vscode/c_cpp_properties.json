@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/project/user",
+                "${workspaceFolder}/project/code",
+                "${workspaceFolder}/project/code/IO",
+                "${workspaceFolder}/project/code/IO/inc",
+                "${workspaceFolder}/project/code/Net",
+                "${workspaceFolder}/libraries/zf_common",
+                "${workspaceFolder}/libraries/zf_device",
+                "${workspaceFolder}/libraries/zf_driver",
+                "${workspaceFolder}/libraries/zf_components",
+                "/home/lcyx/opencv-4.10.0/install/include/opencv4",
+                "/usr/include",
+                "/usr/local/include"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

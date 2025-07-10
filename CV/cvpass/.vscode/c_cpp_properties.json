@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "loongarch",
+            "includePath": [
+                "${workspaceFolder}/**",
+                
+            ],
+            "defines": [],
+            "compilerPath": "/opt/loongarch64-gnu-gcc-ABI1/bin/loongarch64-linux-gnu-gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
