@@ -1,3 +1,0 @@
-/home/handle/loongson/ABI1/cvpass/build/CMakeFiles/main.dir
-/home/handle/loongson/ABI1/cvpass/build/CMakeFiles/edit_cache.dir
-/home/handle/loongson/ABI1/cvpass/build/CMakeFiles/rebuild_cache.dir

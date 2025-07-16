@@ -1,9 +1,11 @@
 # Build and Release Folders
-CV/cvpass/build/
+.vscode/
+build/
 
-CV/OpenCVPassthrough/*
+OpenCVPassthrough/
 
 # Other files and folders
 .vscode/
 
 # Executables
+
