@@ -367,7 +367,7 @@ connect:
 			end = 0;
 		}
 		if (key == 's') {
-			std::string fstr = "out";
+			std::string fstr = "x64/out";
 			fstr += count+48;
 			fstr += ".jpg";
 			cv::imwrite(fstr.c_str(), img);
