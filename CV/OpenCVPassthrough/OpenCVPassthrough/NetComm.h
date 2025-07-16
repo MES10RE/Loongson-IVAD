@@ -161,11 +161,6 @@ private:
     ********/
     SOCKET servsock;
 
-#ifdef WINDOWS
-    //windows内部处理
-    WSADATA wsadata;
-    static int countofwsa;
-#endif
     /********
     * 函数   reset
     * 作用   强行结束服务端或客户端链接并重置类

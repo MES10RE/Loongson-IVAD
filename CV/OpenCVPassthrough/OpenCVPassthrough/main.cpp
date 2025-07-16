@@ -258,7 +258,6 @@ void judgePark( Mat imgshow,int inbegin,int inend,int outbegin,int outend) {
 
 double Kp, Ki, Kd;
 int main() {
-
 	NetComm client;
 
 connect:

@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/handle/loongson/ABI1/cvpass/IO/inc -I/home/handle/loongson/ABI1/cvpass/opencv/include/opencv4/opencv2 -I/home/handle/loongson/ABI1/cvpass/opencv/include/opencv4 -I/home/handle/loongson/ABI1/cvpass/opencv/include
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

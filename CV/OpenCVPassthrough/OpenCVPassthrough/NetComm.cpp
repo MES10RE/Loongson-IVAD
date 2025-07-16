@@ -11,7 +11,8 @@
 #include "NetComm.h"
 
 #ifdef WINDOWS
-int NetComm::countofwsa = 0;
+int countofwsa = 0;
+WSADATA wsadata;
 #endif
 
 //NetComm
