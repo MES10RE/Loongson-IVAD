@@ -1,11 +1,12 @@
 # Build and Release Folders
-.vscode/
 build/
+.vs/
+x64/
 
-OpenCVPassthrough/
+#colcon
+install/
+log/
+out/
 
 # Other files and folders
 .vscode/
-
-# Executables
-
