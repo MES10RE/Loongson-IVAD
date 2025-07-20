@@ -1,12 +1,1 @@
-# Build and Release Folders
-build/
-.vs/
-x64/
-
-#colcon
-install/
-log/
-out/
-
-# Other files and folders
 .vscode/
